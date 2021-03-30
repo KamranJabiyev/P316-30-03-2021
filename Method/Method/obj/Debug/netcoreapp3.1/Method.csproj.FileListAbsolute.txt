@@ -1,0 +1,11 @@
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.exe
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.deps.json
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.json
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.runtimeconfig.dev.json
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.dll
+E:\P316\C#\Method\Method\bin\Debug\netcoreapp3.1\Method.pdb
+E:\P316\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.csprojAssemblyReference.cache
+E:\P316\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfoInputs.cache
+E:\P316\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.AssemblyInfo.cs
+E:\P316\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.dll
+E:\P316\C#\Method\Method\obj\Debug\netcoreapp3.1\Method.pdb
